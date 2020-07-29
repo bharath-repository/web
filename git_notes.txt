@@ -27,3 +27,5 @@ $git push -u origin master
 $git push						//updating change to remote repository
 $git commit -a						//directly commiting after modification
 $git pull						//if multiple person working means downloading latest files from git repository
+
+bharath
